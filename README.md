@@ -143,13 +143,11 @@ PIBOB isn't trying to build one perfect AI trader.
 
 It's building a crew.
 
-Five agents.
-Five responsibilities.
-One system.
+Five agents. Five responsibilities. One system.
 
 Status
 
-🚧 PIBOB is actively being built.
+ PIBOB is actively being built.
 
 New tools, logic and experiments are being added as the system evolves.
 
